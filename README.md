@@ -8,5 +8,6 @@ git clone https://github.com/byteSalgado/facupishing/
 cd facupishing
 chmod +x install.sh
 ./install.sh
+./facupishing.sh
 
 ```
