@@ -62,6 +62,7 @@ printf "\e[1;31m Instalacion completada..\n"
 clear
 printf "\e[1;31m Ejecutaremos el script pishing en 3 segundos\n"
 sleep 3
+pkg install mpv
 clear
 bash facupishing.sh
 exit
